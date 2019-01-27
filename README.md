@@ -6,7 +6,7 @@ git clone  https://github.com/paijoasem/arok-reject-invite
 apt install unzip
 
 Cara mengekstrak file zip:
-unzip arok sb.zip
+unzip arok.zip
 cd SELFBOT
 pip3 install akad
 pip3 install ffmpy
